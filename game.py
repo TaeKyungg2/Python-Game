@@ -1,4 +1,5 @@
 # 소스 코드 수정 중
+# my write.ㅎㅎ
 
 import random
 # 나도 고쳤어유
